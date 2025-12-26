@@ -1,0 +1,605 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML><HEAD></HEAD><BODY>
+<OBJECT type="text/site properties">
+<param name="FrameName" value="right">
+</OBJECT>
+<UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structdac8__cfg__data__t.html#af5105c72a61e60d3b44670de20e0c3fb"><param name="Name" value="addr"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8c.html#a0e95431f48ee71c1040217b94766ffcf"><param name="Name" value="application_init(void)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8c.html#a362899c9f270bb296179185fd96b878e"><param name="Name" value="application_task(void)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8c.html#a95d03bdab1fe72f365e9a091030d676b"><param name="Name" value="cfg_dac"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structdac8__s.html#ae4ecd3ce05887af3df2edaa617ce20c5"><param name="Name" value="chip_select"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__communication.html"><param name="Name" value="communication"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group__communication.html#ga673ba76a3b7d9f512765a8c0787bf960"><param name="Name" value="DAC8_MASTER_I2C"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__communication.html"><param name="Name" value="communication"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group__communication.html#ga628c54832c55f2dccc301a21f95817fa"><param name="Name" value="DAC8_MASTER_SPI"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__config__register.html"><param name="Name" value="CONFIG Register"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__config__register.html"><param name="Name" value="config_register"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group__config__register.html#gab79235c790b9db474dddb9d67adfe943"><param name="Name" value="DAC8_CONFIG_DAC_PWDWN_BIT_MASK"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__config__register.html"><param name="Name" value="config_register"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group__config__register.html#ga48ca5400f4dcc482a5562ffaa45bcddc"><param name="Name" value="DAC8_CONFIG_DAC_PWDWN_DISABLE"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__config__register.html"><param name="Name" value="config_register"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group__config__register.html#gabbc4d04092646e670eaf9722dd072322"><param name="Name" value="DAC8_CONFIG_DAC_PWDWN_ENABLE"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__config__register.html"><param name="Name" value="config_register"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group__config__register.html#ga06985121b826241c79f0271139604849"><param name="Name" value="DAC8_CONFIG_REF_PWDWN_BIT_MASK"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__config__register.html"><param name="Name" value="config_register"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group__config__register.html#ga06845a66828a0b355ce624387cd69589"><param name="Name" value="DAC8_CONFIG_REF_PWDWN_DISABLE"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__config__register.html"><param name="Name" value="config_register"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group__config__register.html#ga10bc855321916f265c4507e54359e6d5"><param name="Name" value="DAC8_CONFIG_REF_PWDWN_ENABLE"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structdac8__cfg__t.html#af942f9c5ef2f039bb7277c130ea9d17f"><param name="Name" value="cs"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structdac8__cfg__t.html#af942f9c5ef2f039bb7277c130ea9d17f"><param name="Name" value="dac8_cfg_t"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structdac8__s.html#a00ce96649495c02a546f16ea8192ca36"><param name="Name" value="cs"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structdac8__s.html#a00ce96649495c02a546f16ea8192ca36"><param name="Name" value="dac8_s"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structdac8__cfg__t.html#a75c0dfb30561bfa74feb35b6e037efa6"><param name="Name" value="cs_polarity"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structdac8__cfg__data__t.html#a723056c83b0d058cb0ca4eacc2d3b102"><param name="Name" value="ctrl_upd_an_out"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__dac__60501.html"><param name="Name" value="DAC 60501"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__dac8.html"><param name="Name" value="DAC 8 Click Driver"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__dac__8554.html"><param name="Name" value="DAC 8554"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="index.html"><param name="Name" value="dac8"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__dac__8554.html#gada421ca4d40def0aeec00b2d8fec86f3"><param name="Name" value="DAC8_24_BIT_BIT_MASK"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__dac__8554.html#ga9eed07c379aea153aa33b95146216d43"><param name="Name" value="DAC8_ADDR_BIT_MASK"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__dac__8554.html#ga94142d8494ca3814c66b7d7d6eac01c5"><param name="Name" value="DAC8_ADDR_DEFAULT"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structdac8__cfg__data__t.html"><param name="Name" value="dac8_cfg_data_t"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structdac8__cfg__data__t.html"><param name="Name" value="dac8_cfg_data_t"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structdac8__cfg__data__t.html#af5105c72a61e60d3b44670de20e0c3fb"><param name="Name" value="addr"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structdac8__cfg__data__t.html"><param name="Name" value="dac8_cfg_data_t"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structdac8__cfg__data__t.html#a723056c83b0d058cb0ca4eacc2d3b102"><param name="Name" value="ctrl_upd_an_out"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structdac8__cfg__data__t.html"><param name="Name" value="dac8_cfg_data_t"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structdac8__cfg__data__t.html#a18ef9e323089189605a96f720fb92385"><param name="Name" value="dac_sel"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structdac8__cfg__data__t.html"><param name="Name" value="dac8_cfg_data_t"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structdac8__cfg__data__t.html#a9d0b655089da184b2ddb811798c36492"><param name="Name" value="dac_val"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structdac8__cfg__data__t.html"><param name="Name" value="dac8_cfg_data_t"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structdac8__cfg__data__t.html#ac5fc4465c2cb56cf96fc9ff1f3afcb44"><param name="Name" value="pwr_mode"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__public__function.html#ga371321fdef1bde673375a3afa546399a"><param name="Name" value="dac8_cfg_setup(dac8_cfg_t *cfg)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structdac8__cfg__t.html"><param name="Name" value="dac8_cfg_t"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structdac8__cfg__t.html"><param name="Name" value="dac8_cfg_t"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structdac8__cfg__t.html#af942f9c5ef2f039bb7277c130ea9d17f"><param name="Name" value="cs"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structdac8__cfg__t.html"><param name="Name" value="dac8_cfg_t"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structdac8__cfg__t.html#a75c0dfb30561bfa74feb35b6e037efa6"><param name="Name" value="cs_polarity"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structdac8__cfg__t.html"><param name="Name" value="dac8_cfg_t"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structdac8__cfg__t.html#afd5dbf719bae2b1ea9260a55e7c289cf"><param name="Name" value="i2c_address"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structdac8__cfg__t.html"><param name="Name" value="dac8_cfg_t"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structdac8__cfg__t.html#a5cb25c23df32f8ba7817bed4de899425"><param name="Name" value="i2c_speed"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structdac8__cfg__t.html"><param name="Name" value="dac8_cfg_t"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structdac8__cfg__t.html#ad68efd7e8ad1531f79a1d9e004473307"><param name="Name" value="miso"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structdac8__cfg__t.html"><param name="Name" value="dac8_cfg_t"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structdac8__cfg__t.html#aad2210fd7a5119c1d12f5003fe359c21"><param name="Name" value="mosi"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structdac8__cfg__t.html"><param name="Name" value="dac8_cfg_t"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structdac8__cfg__t.html#ad0aa0eedec8849cb2cf5d1c86da1a821"><param name="Name" value="pwm"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structdac8__cfg__t.html"><param name="Name" value="dac8_cfg_t"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structdac8__cfg__t.html#aeba85e9319a5c8c3a7bab5cb503278e4"><param name="Name" value="rst"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structdac8__cfg__t.html"><param name="Name" value="dac8_cfg_t"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structdac8__cfg__t.html#a7d4fefea9071f5217ef8973c771751e5"><param name="Name" value="sck"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structdac8__cfg__t.html"><param name="Name" value="dac8_cfg_t"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structdac8__cfg__t.html#ac5909ef3bd73ac3d682f91bb79baa56f"><param name="Name" value="scl"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structdac8__cfg__t.html"><param name="Name" value="dac8_cfg_t"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structdac8__cfg__t.html#adc3dc5e0cc6fe9e112104a64a9bd8c61"><param name="Name" value="sda"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structdac8__cfg__t.html"><param name="Name" value="dac8_cfg_t"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structdac8__cfg__t.html#a1535ccf5f0464379189c50e8f5cd222c"><param name="Name" value="sel"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structdac8__cfg__t.html"><param name="Name" value="dac8_cfg_t"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structdac8__cfg__t.html#a8b8321dd2f1b623cd940e73b118f610d"><param name="Name" value="spi_mode"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structdac8__cfg__t.html"><param name="Name" value="dac8_cfg_t"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structdac8__cfg__t.html#aaf56291fd6677734c778aef6c89548e8"><param name="Name" value="spi_speed"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__config__register.html#gab79235c790b9db474dddb9d67adfe943"><param name="Name" value="DAC8_CONFIG_DAC_PWDWN_BIT_MASK"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__config__register.html#ga48ca5400f4dcc482a5562ffaa45bcddc"><param name="Name" value="DAC8_CONFIG_DAC_PWDWN_DISABLE"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__config__register.html#gabbc4d04092646e670eaf9722dd072322"><param name="Name" value="DAC8_CONFIG_DAC_PWDWN_ENABLE"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__config__register.html#ga06985121b826241c79f0271139604849"><param name="Name" value="DAC8_CONFIG_REF_PWDWN_BIT_MASK"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__config__register.html#ga06845a66828a0b355ce624387cd69589"><param name="Name" value="DAC8_CONFIG_REF_PWDWN_DISABLE"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__config__register.html#ga10bc855321916f265c4507e54359e6d5"><param name="Name" value="DAC8_CONFIG_REF_PWDWN_ENABLE"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__dac__8554.html#ga9831b6161d0e3801868e99478c507d8f"><param name="Name" value="DAC8_CTRL_UPD_AN_OUT_BIT_MASK"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__dac__8554.html#gacfcbec70acb3e37bfd7169eefd6b3fba"><param name="Name" value="DAC8_CTRL_UPD_AN_OUT_BROADCAST_UPDATE"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__dac__8554.html#gace34784b0fba2248ebd58ab716c8b3d5"><param name="Name" value="DAC8_CTRL_UPD_AN_OUT_SIMULTANEOUS_UPDATE"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__dac__8554.html#gaeab114a3ac94fd3c9e9ae5fb231b514d"><param name="Name" value="DAC8_CTRL_UPD_AN_OUT_SINGLE_CH_STORE"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__dac__8554.html#ga078b4a10eb2bf99d5148e5ffc43fbc97"><param name="Name" value="DAC8_CTRL_UPD_AN_OUT_SINGLE_CH_UPDATE"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__dac__8554.html#ga20735cdcfa63dc89003d099baa611f48"><param name="Name" value="DAC8_DAC8554_DISABLE"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__dac__8554.html#ga859c4b49f172fd3cf9b9cf21af4e8387"><param name="Name" value="DAC8_DAC8554_ENABLE"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__dac__8554.html#gab2f443016e5261a8377cb7ad72d554ab"><param name="Name" value="DAC8_DAC_OUT_DATA_MAX"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__dac__8554.html#ga8956d6dba5f588206c715699e10e5192"><param name="Name" value="DAC8_DAC_OUT_DATA_MIN"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__dac__8554.html#ga03b5dc0771e1ddc3378f3b0b0a44d9d7"><param name="Name" value="DAC8_DAC_SEL_ALL_CH_BROADCAST"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__dac__8554.html#gafd2802691385076d15bd1618d6c2d6cc"><param name="Name" value="DAC8_DAC_SEL_CH_A"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__dac__8554.html#ga7d828feee6d022e310a4e627c75d743c"><param name="Name" value="DAC8_DAC_SEL_CH_B"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__dac__8554.html#ga289a217471170dd712d1cce0405f5c90"><param name="Name" value="DAC8_DAC_SEL_CH_BIT_MASK"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__dac__8554.html#gab97af3062266b91fa2066087d9574dc0"><param name="Name" value="DAC8_DAC_SEL_CH_C"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__dac__8554.html#ga58e299c4c7a05eb88886022c487a50e0"><param name="Name" value="DAC8_DAC_SEL_CH_D"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__public__function.html#ga8045a90a38d530b957b699786ddebb93"><param name="Name" value="dac8_device_config(dac8_t *ctx, dac8_cfg_data_t cfg_data)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__public__function.html#gaeefe1e9120e09666361bd17c0e2df016"><param name="Name" value="dac8_device_enable(dac8_t *ctx, uint8_t en_sel)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__public__function.html#ga6f8e83f7204cb4aef081c458ccdfd16a"><param name="Name" value="dac8_enable_sync(dac8_t *ctx, uint8_t en_sync)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__status__register.html#gaf4e3378c93c5c269e5a3bb9d3d584d90"><param name="Name" value="DAC8_ERROR"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__gain__register.html#ga5b87c3287a7a24fe02e9f6d40daff16f"><param name="Name" value="DAC8_GAIN_BUFF_GAIN_1"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__gain__register.html#gae11d76e897fcbb2952a5e7fa4031afdd"><param name="Name" value="DAC8_GAIN_BUFF_GAIN_2"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__gain__register.html#gaccf32cb9beafc84bc99fe403de55fdc6"><param name="Name" value="DAC8_GAIN_BUFF_GAIN_BIT_MASK"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__gain__register.html#ga4a2c57a9a5ae1d22c57c7759b5ce6c4a"><param name="Name" value="DAC8_GAIN_REF_DIV_2"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__gain__register.html#ga2f2b6249f6f44f12cb2e364726acf09b"><param name="Name" value="DAC8_GAIN_REF_DIV_BIT_MASK"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__gain__register.html#ga3e2b915ee0807b1793129a4b7515fda1"><param name="Name" value="DAC8_GAIN_REF_DIV_DISABLE"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__public__function.html#ga79e1d318018d0d172a7fa82019429d3a"><param name="Name" value="dac8_generic_read(dac8_t *ctx, uint8_t reg, uint8_t *data_buf, uint8_t len)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__public__function.html#gae463dfcd92c31479a62f892cb85ee1e8"><param name="Name" value="dac8_generic_spi_write(dac8_t *ctx, uint32_t tx_data)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__public__function.html#gabfac522a10ac262684f4bcf4873332b4"><param name="Name" value="dac8_generic_write(dac8_t *ctx, uint8_t reg, uint8_t *data_buf, uint8_t len)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__public__function.html#ga3db7a1c1c8dbb7b8f3924c3adca23b63"><param name="Name" value="dac8_get_ref_alarm(dac8_t *ctx)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__dac__60501.html#ga7ccf5ecf3717e3b097eb2920a1bcf701"><param name="Name" value="DAC8_I2C_SLAVE_ADDR"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__public__function.html#gae4fc97a90baa4590c48760bbbf5e498e"><param name="Name" value="dac8_init(dac8_t *ctx, dac8_cfg_t *cfg, uint8_t master_mode)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__error__code.html#ga761d181a7a3f8002d56df1281146707a"><param name="Name" value="DAC8_INIT_ERROR"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__dac__8554.html#ga320fd17a405227a16c626179e26611cd"><param name="Name" value="DAC8_LDAC_HIGH"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__dac__8554.html#ga7f6defec5c778a4571a5fab36946ef4f"><param name="Name" value="DAC8_LDAC_LOW"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__public__function.html#gaa467adecbc52417da01aafd9c3c4f660"><param name="Name" value="dac8_load_dac(dac8_t *ctx)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__map__mikrobus.html#gaccc2469e0d40200f68a3abb24a11dd8c"><param name="Name" value="DAC8_MAP_MIKROBUS(cfg, mikrobus)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__communication.html#ga673ba76a3b7d9f512765a8c0787bf960"><param name="Name" value="DAC8_MASTER_I2C"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__type.html#gab5b941d9e4319295110c2c9371fe3ea7"><param name="Name" value="dac8_master_io_t)(struct dac8_s *, uint8_t, uint8_t *, uint8_t)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__communication.html#ga628c54832c55f2dccc301a21f95817fa"><param name="Name" value="DAC8_MASTER_SPI"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__error__code.html#ga5661eeb4f8bbc8b423084775e08570d4"><param name="Name" value="DAC8_OK"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__dac__8554.html#ga8eacf8511ea923bc46fc5da2bacac784"><param name="Name" value="DAC8_PWR_DOWN_MODE_BIT_MASK"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__dac__8554.html#gacdefe1523addd5b1013e729863f8f320"><param name="Name" value="DAC8_PWR_MODE_POWER_DOWN_OUT_HIGH_IMPEDANCE"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__dac__8554.html#ga56ffca956658180664b922763527f289"><param name="Name" value="DAC8_PWR_MODE_POWER_DOWN_OUT_HIGH_IMPEDANCES"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__dac__8554.html#ga64ab36fb5d7d647871f6dfe5c18cc9dc"><param name="Name" value="DAC8_PWR_MODE_POWER_DOWN_OUT_TYP_100K_TO_GND"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__dac__8554.html#ga2fa36ade57843c7c4c19eaec4df788fc"><param name="Name" value="DAC8_PWR_MODE_POWER_DOWN_OUT_TYP_1K_TO_GND"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__dac__8554.html#ga471cbd22f9145c78c11e63a240870457"><param name="Name" value="DAC8_PWR_MODE_POWER_UP"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__dac__8554.html#ga91fe9848a6b9179d3cbae8a4375c6ec2"><param name="Name" value="DAC8_PWR_UP_MODE_BIT_MASK"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__register__map.html#gaaf1b8173aef5c9c4b5630d71ea4d821f"><param name="Name" value="DAC8_REG_CONFIG"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__register__map.html#ga5c5188515cbe1fd38a1c317282e4f9fd"><param name="Name" value="DAC8_REG_DAC"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__register__map.html#gac23b111710e04cdbff43540c8f28d14d"><param name="Name" value="DAC8_REG_DEVID"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__register__map.html#gaf1136e0fd5d386bc238311d9481ac50d"><param name="Name" value="DAC8_REG_GAIN"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__register__map.html#gae05952595a44131b28104cec5e9df7d7"><param name="Name" value="DAC8_REG_NOOP"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__register__map.html#gad440395c7daf09cc99ce588bd402fc56"><param name="Name" value="DAC8_REG_STATUS"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__register__map.html#ga2f2094204cc11457f62a83880bd34819"><param name="Name" value="DAC8_REG_SYNC"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__register__map.html#gad397d5beb2af86082f63f0e2430639a1"><param name="Name" value="DAC8_REG_TRIGGER"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__error__code.html#ga3e8fa6e612767fcf0f90af0357c1a2ef"><param name="Name" value="DAC8_RETVAL"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structdac8__s.html"><param name="Name" value="dac8_s"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structdac8__s.html"><param name="Name" value="dac8_s"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structdac8__s.html#ae4ecd3ce05887af3df2edaa617ce20c5"><param name="Name" value="chip_select"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structdac8__s.html"><param name="Name" value="dac8_s"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structdac8__s.html#a00ce96649495c02a546f16ea8192ca36"><param name="Name" value="cs"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structdac8__s.html"><param name="Name" value="dac8_s"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structdac8__s.html#a9ba6cb97d8a7d4bcf62f906d8b20adc3"><param name="Name" value="i2c"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structdac8__s.html"><param name="Name" value="dac8_s"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structdac8__s.html#a3b18bedd6d2b9a472820e668ad2ff8e4"><param name="Name" value="master_sel"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structdac8__s.html"><param name="Name" value="dac8_s"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structdac8__s.html#a7fbed67b1ec47d61a370501c8ec46ffd"><param name="Name" value="pwm"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structdac8__s.html"><param name="Name" value="dac8_s"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structdac8__s.html#a294863a75fcd0ea9f20b80153e52a473"><param name="Name" value="read_f"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structdac8__s.html"><param name="Name" value="dac8_s"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structdac8__s.html#ac460e94a3d39e1ad4e939d2c04bdc454"><param name="Name" value="rst"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structdac8__s.html"><param name="Name" value="dac8_s"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structdac8__s.html#ac93868aeda435dfb685a0a0020e5c7a4"><param name="Name" value="slave_address"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structdac8__s.html"><param name="Name" value="dac8_s"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structdac8__s.html#a1a3ff96f28dc09691b0a5746ff720189"><param name="Name" value="spi"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structdac8__s.html"><param name="Name" value="dac8_s"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structdac8__s.html#a14976afb45678b2cab925aca532e034e"><param name="Name" value="write_f"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__type.html#ga2cdaa5ed31a40540e591be935e032884"><param name="Name" value="dac8_select_t"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__public__function.html#gaa6616c715b77ddccfa64ef821b758c93"><param name="Name" value="dac8_set_config(dac8_t *ctx, uint16_t en_ref_pwdwn, uint16_t en_dac_pwdwn)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__public__function.html#ga5542f001fa36ab87c2ffe9f69b2415d0"><param name="Name" value="dac8_set_gain(dac8_t *ctx, uint16_t en_ref_div, uint16_t en_buff_gain)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__public__function.html#gadd1287e3a19647cafe924a4f04b4cb1f"><param name="Name" value="dac8_set_ldac(dac8_t *ctx, uint8_t ldac_sel)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__public__function.html#ga75a57648541557d78563a5a7bc847981"><param name="Name" value="dac8_set_synchronously_load(dac8_t *ctx)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__public__function.html#ga4b60de66272da2ff73cdff81f9a81189"><param name="Name" value="dac8_set_vref(dac8_t *ctx, uint16_t vref_mv)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__public__function.html#ga158d10a0c670305f95f05d2c38aab9e6"><param name="Name" value="dac8_soft_reset(dac8_t *ctx)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__status__register.html#ga3daca0e3f39338bb3f9614915d0bc9b6"><param name="Name" value="DAC8_STATUS_REF_ALARM_BIT_MASK"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__status__register.html#gabfbb919f73d1c2ad035a536ce7482e1c"><param name="Name" value="DAC8_SUCCESS"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__sync__register.html#ga28c66d9f26bf2e49724f2854aa636bcc"><param name="Name" value="DAC8_SYNC_DISABLE"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__sync__register.html#ga865b65c240642b81cac6df93da795026"><param name="Name" value="DAC8_SYNC_ENABLE"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__type.html#ga9a6e159e0048d3213e10754e1106660d"><param name="Name" value="dac8_t"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__trigger__register.html#gaa4b29df302358c3bee6175b9a9df58b8"><param name="Name" value="DAC8_TRIGGER_LDAC"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__trigger__register.html#gada52fa66302882b161494fcbee3b640d"><param name="Name" value="DAC8_TRIGGER_SOFT_RESET"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__dac__60501.html#ga7ccf5ecf3717e3b097eb2920a1bcf701"><param name="Name" value="dac_60501"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__dac__8554.html"><param name="Name" value="dac_8554"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group__dac__8554.html#gada421ca4d40def0aeec00b2d8fec86f3"><param name="Name" value="DAC8_24_BIT_BIT_MASK"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__dac__8554.html"><param name="Name" value="dac_8554"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group__dac__8554.html#ga9eed07c379aea153aa33b95146216d43"><param name="Name" value="DAC8_ADDR_BIT_MASK"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__dac__8554.html"><param name="Name" value="dac_8554"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group__dac__8554.html#ga94142d8494ca3814c66b7d7d6eac01c5"><param name="Name" value="DAC8_ADDR_DEFAULT"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__dac__8554.html"><param name="Name" value="dac_8554"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group__dac__8554.html#ga9831b6161d0e3801868e99478c507d8f"><param name="Name" value="DAC8_CTRL_UPD_AN_OUT_BIT_MASK"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__dac__8554.html"><param name="Name" value="dac_8554"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group__dac__8554.html#gacfcbec70acb3e37bfd7169eefd6b3fba"><param name="Name" value="DAC8_CTRL_UPD_AN_OUT_BROADCAST_UPDATE"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__dac__8554.html"><param name="Name" value="dac_8554"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group__dac__8554.html#gace34784b0fba2248ebd58ab716c8b3d5"><param name="Name" value="DAC8_CTRL_UPD_AN_OUT_SIMULTANEOUS_UPDATE"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__dac__8554.html"><param name="Name" value="dac_8554"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group__dac__8554.html#gaeab114a3ac94fd3c9e9ae5fb231b514d"><param name="Name" value="DAC8_CTRL_UPD_AN_OUT_SINGLE_CH_STORE"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__dac__8554.html"><param name="Name" value="dac_8554"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group__dac__8554.html#ga078b4a10eb2bf99d5148e5ffc43fbc97"><param name="Name" value="DAC8_CTRL_UPD_AN_OUT_SINGLE_CH_UPDATE"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__dac__8554.html"><param name="Name" value="dac_8554"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group__dac__8554.html#ga20735cdcfa63dc89003d099baa611f48"><param name="Name" value="DAC8_DAC8554_DISABLE"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__dac__8554.html"><param name="Name" value="dac_8554"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group__dac__8554.html#ga859c4b49f172fd3cf9b9cf21af4e8387"><param name="Name" value="DAC8_DAC8554_ENABLE"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__dac__8554.html"><param name="Name" value="dac_8554"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group__dac__8554.html#gab2f443016e5261a8377cb7ad72d554ab"><param name="Name" value="DAC8_DAC_OUT_DATA_MAX"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__dac__8554.html"><param name="Name" value="dac_8554"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group__dac__8554.html#ga8956d6dba5f588206c715699e10e5192"><param name="Name" value="DAC8_DAC_OUT_DATA_MIN"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__dac__8554.html"><param name="Name" value="dac_8554"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group__dac__8554.html#ga03b5dc0771e1ddc3378f3b0b0a44d9d7"><param name="Name" value="DAC8_DAC_SEL_ALL_CH_BROADCAST"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__dac__8554.html"><param name="Name" value="dac_8554"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group__dac__8554.html#gafd2802691385076d15bd1618d6c2d6cc"><param name="Name" value="DAC8_DAC_SEL_CH_A"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__dac__8554.html"><param name="Name" value="dac_8554"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group__dac__8554.html#ga7d828feee6d022e310a4e627c75d743c"><param name="Name" value="DAC8_DAC_SEL_CH_B"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__dac__8554.html"><param name="Name" value="dac_8554"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group__dac__8554.html#ga289a217471170dd712d1cce0405f5c90"><param name="Name" value="DAC8_DAC_SEL_CH_BIT_MASK"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__dac__8554.html"><param name="Name" value="dac_8554"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group__dac__8554.html#gab97af3062266b91fa2066087d9574dc0"><param name="Name" value="DAC8_DAC_SEL_CH_C"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__dac__8554.html"><param name="Name" value="dac_8554"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group__dac__8554.html#ga58e299c4c7a05eb88886022c487a50e0"><param name="Name" value="DAC8_DAC_SEL_CH_D"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__dac__8554.html"><param name="Name" value="dac_8554"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group__dac__8554.html#ga320fd17a405227a16c626179e26611cd"><param name="Name" value="DAC8_LDAC_HIGH"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__dac__8554.html"><param name="Name" value="dac_8554"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group__dac__8554.html#ga7f6defec5c778a4571a5fab36946ef4f"><param name="Name" value="DAC8_LDAC_LOW"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__dac__8554.html"><param name="Name" value="dac_8554"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group__dac__8554.html#ga8eacf8511ea923bc46fc5da2bacac784"><param name="Name" value="DAC8_PWR_DOWN_MODE_BIT_MASK"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__dac__8554.html"><param name="Name" value="dac_8554"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group__dac__8554.html#gacdefe1523addd5b1013e729863f8f320"><param name="Name" value="DAC8_PWR_MODE_POWER_DOWN_OUT_HIGH_IMPEDANCE"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__dac__8554.html"><param name="Name" value="dac_8554"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group__dac__8554.html#ga56ffca956658180664b922763527f289"><param name="Name" value="DAC8_PWR_MODE_POWER_DOWN_OUT_HIGH_IMPEDANCES"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__dac__8554.html"><param name="Name" value="dac_8554"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group__dac__8554.html#ga64ab36fb5d7d647871f6dfe5c18cc9dc"><param name="Name" value="DAC8_PWR_MODE_POWER_DOWN_OUT_TYP_100K_TO_GND"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__dac__8554.html"><param name="Name" value="dac_8554"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group__dac__8554.html#ga2fa36ade57843c7c4c19eaec4df788fc"><param name="Name" value="DAC8_PWR_MODE_POWER_DOWN_OUT_TYP_1K_TO_GND"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__dac__8554.html"><param name="Name" value="dac_8554"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group__dac__8554.html#ga471cbd22f9145c78c11e63a240870457"><param name="Name" value="DAC8_PWR_MODE_POWER_UP"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__dac__8554.html"><param name="Name" value="dac_8554"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group__dac__8554.html#ga91fe9848a6b9179d3cbae8a4375c6ec2"><param name="Name" value="DAC8_PWR_UP_MODE_BIT_MASK"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structdac8__cfg__data__t.html#a18ef9e323089189605a96f720fb92385"><param name="Name" value="dac_sel"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structdac8__cfg__data__t.html#a9d0b655089da184b2ddb811798c36492"><param name="Name" value="dac_val"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__error__code.html"><param name="Name" value="Error Code"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__error__code.html"><param name="Name" value="error_code"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group__error__code.html#ga761d181a7a3f8002d56df1281146707a"><param name="Name" value="DAC8_INIT_ERROR"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__error__code.html"><param name="Name" value="error_code"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group__error__code.html#ga5661eeb4f8bbc8b423084775e08570d4"><param name="Name" value="DAC8_OK"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__error__code.html"><param name="Name" value="error_code"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group__error__code.html#ga3e8fa6e612767fcf0f90af0357c1a2ef"><param name="Name" value="DAC8_RETVAL"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__gain__register.html"><param name="Name" value="GAIN Register"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__gain__register.html"><param name="Name" value="gain_register"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group__gain__register.html#ga5b87c3287a7a24fe02e9f6d40daff16f"><param name="Name" value="DAC8_GAIN_BUFF_GAIN_1"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__gain__register.html"><param name="Name" value="gain_register"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group__gain__register.html#gae11d76e897fcbb2952a5e7fa4031afdd"><param name="Name" value="DAC8_GAIN_BUFF_GAIN_2"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__gain__register.html"><param name="Name" value="gain_register"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group__gain__register.html#gaccf32cb9beafc84bc99fe403de55fdc6"><param name="Name" value="DAC8_GAIN_BUFF_GAIN_BIT_MASK"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__gain__register.html"><param name="Name" value="gain_register"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group__gain__register.html#ga4a2c57a9a5ae1d22c57c7759b5ce6c4a"><param name="Name" value="DAC8_GAIN_REF_DIV_2"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__gain__register.html"><param name="Name" value="gain_register"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group__gain__register.html#ga2f2b6249f6f44f12cb2e364726acf09b"><param name="Name" value="DAC8_GAIN_REF_DIV_BIT_MASK"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__gain__register.html"><param name="Name" value="gain_register"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group__gain__register.html#ga3e2b915ee0807b1793129a4b7515fda1"><param name="Name" value="DAC8_GAIN_REF_DIV_DISABLE"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structdac8__s.html#a9ba6cb97d8a7d4bcf62f906d8b20adc3"><param name="Name" value="i2c"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structdac8__cfg__t.html#afd5dbf719bae2b1ea9260a55e7c289cf"><param name="Name" value="i2c_address"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structdac8__cfg__t.html#a5cb25c23df32f8ba7817bed4de899425"><param name="Name" value="i2c_speed"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__macros.html"><param name="Name" value="Macros"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8c.html#a840291bc02cba5474a4cb46a9b9566fe"><param name="Name" value="main(void)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8c.html"><param name="Name" value="main.c"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8c.html#a0e95431f48ee71c1040217b94766ffcf"><param name="Name" value="application_init(void)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8c.html"><param name="Name" value="main.c"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8c.html#a362899c9f270bb296179185fd96b878e"><param name="Name" value="application_task(void)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8c.html"><param name="Name" value="main.c"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8c.html#a95d03bdab1fe72f365e9a091030d676b"><param name="Name" value="cfg_dac"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8c.html"><param name="Name" value="main.c"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8c.html#a840291bc02cba5474a4cb46a9b9566fe"><param name="Name" value="main(void)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__map__mikrobus.html#gaccc2469e0d40200f68a3abb24a11dd8c"><param name="Name" value="map_mikrobus"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structdac8__s.html#a3b18bedd6d2b9a472820e668ad2ff8e4"><param name="Name" value="master_sel"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__map__mikrobus.html"><param name="Name" value="MikroBUS"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structdac8__cfg__t.html#ad68efd7e8ad1531f79a1d9e004473307"><param name="Name" value="miso"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structdac8__cfg__t.html#aad2210fd7a5119c1d12f5003fe359c21"><param name="Name" value="mosi"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__public__function.html"><param name="Name" value="Public function"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__public__function.html"><param name="Name" value="public_function"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group__public__function.html#ga371321fdef1bde673375a3afa546399a"><param name="Name" value="dac8_cfg_setup(dac8_cfg_t *cfg)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__public__function.html"><param name="Name" value="public_function"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group__public__function.html#ga8045a90a38d530b957b699786ddebb93"><param name="Name" value="dac8_device_config(dac8_t *ctx, dac8_cfg_data_t cfg_data)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__public__function.html"><param name="Name" value="public_function"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group__public__function.html#gaeefe1e9120e09666361bd17c0e2df016"><param name="Name" value="dac8_device_enable(dac8_t *ctx, uint8_t en_sel)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__public__function.html"><param name="Name" value="public_function"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group__public__function.html#ga6f8e83f7204cb4aef081c458ccdfd16a"><param name="Name" value="dac8_enable_sync(dac8_t *ctx, uint8_t en_sync)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__public__function.html"><param name="Name" value="public_function"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group__public__function.html#ga79e1d318018d0d172a7fa82019429d3a"><param name="Name" value="dac8_generic_read(dac8_t *ctx, uint8_t reg, uint8_t *data_buf, uint8_t len)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__public__function.html"><param name="Name" value="public_function"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group__public__function.html#gae463dfcd92c31479a62f892cb85ee1e8"><param name="Name" value="dac8_generic_spi_write(dac8_t *ctx, uint32_t tx_data)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__public__function.html"><param name="Name" value="public_function"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group__public__function.html#gabfac522a10ac262684f4bcf4873332b4"><param name="Name" value="dac8_generic_write(dac8_t *ctx, uint8_t reg, uint8_t *data_buf, uint8_t len)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__public__function.html"><param name="Name" value="public_function"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group__public__function.html#ga3db7a1c1c8dbb7b8f3924c3adca23b63"><param name="Name" value="dac8_get_ref_alarm(dac8_t *ctx)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__public__function.html"><param name="Name" value="public_function"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group__public__function.html#gae4fc97a90baa4590c48760bbbf5e498e"><param name="Name" value="dac8_init(dac8_t *ctx, dac8_cfg_t *cfg, uint8_t master_mode)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__public__function.html"><param name="Name" value="public_function"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group__public__function.html#gaa467adecbc52417da01aafd9c3c4f660"><param name="Name" value="dac8_load_dac(dac8_t *ctx)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__public__function.html"><param name="Name" value="public_function"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group__public__function.html#gaa6616c715b77ddccfa64ef821b758c93"><param name="Name" value="dac8_set_config(dac8_t *ctx, uint16_t en_ref_pwdwn, uint16_t en_dac_pwdwn)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__public__function.html"><param name="Name" value="public_function"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group__public__function.html#ga5542f001fa36ab87c2ffe9f69b2415d0"><param name="Name" value="dac8_set_gain(dac8_t *ctx, uint16_t en_ref_div, uint16_t en_buff_gain)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__public__function.html"><param name="Name" value="public_function"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group__public__function.html#gadd1287e3a19647cafe924a4f04b4cb1f"><param name="Name" value="dac8_set_ldac(dac8_t *ctx, uint8_t ldac_sel)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__public__function.html"><param name="Name" value="public_function"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group__public__function.html#ga75a57648541557d78563a5a7bc847981"><param name="Name" value="dac8_set_synchronously_load(dac8_t *ctx)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__public__function.html"><param name="Name" value="public_function"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group__public__function.html#ga4b60de66272da2ff73cdff81f9a81189"><param name="Name" value="dac8_set_vref(dac8_t *ctx, uint16_t vref_mv)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__public__function.html"><param name="Name" value="public_function"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group__public__function.html#ga158d10a0c670305f95f05d2c38aab9e6"><param name="Name" value="dac8_soft_reset(dac8_t *ctx)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structdac8__cfg__t.html#ad0aa0eedec8849cb2cf5d1c86da1a821"><param name="Name" value="pwm"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structdac8__cfg__t.html#ad0aa0eedec8849cb2cf5d1c86da1a821"><param name="Name" value="dac8_cfg_t"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structdac8__s.html#a7fbed67b1ec47d61a370501c8ec46ffd"><param name="Name" value="pwm"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structdac8__s.html#a7fbed67b1ec47d61a370501c8ec46ffd"><param name="Name" value="dac8_s"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structdac8__cfg__data__t.html#ac5fc4465c2cb56cf96fc9ff1f3afcb44"><param name="Name" value="pwr_mode"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structdac8__s.html#a294863a75fcd0ea9f20b80153e52a473"><param name="Name" value="read_f"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__register__map.html"><param name="Name" value="Register Map"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__register__map.html"><param name="Name" value="register_map"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group__register__map.html#gaaf1b8173aef5c9c4b5630d71ea4d821f"><param name="Name" value="DAC8_REG_CONFIG"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__register__map.html"><param name="Name" value="register_map"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group__register__map.html#ga5c5188515cbe1fd38a1c317282e4f9fd"><param name="Name" value="DAC8_REG_DAC"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__register__map.html"><param name="Name" value="register_map"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group__register__map.html#gac23b111710e04cdbff43540c8f28d14d"><param name="Name" value="DAC8_REG_DEVID"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__register__map.html"><param name="Name" value="register_map"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group__register__map.html#gaf1136e0fd5d386bc238311d9481ac50d"><param name="Name" value="DAC8_REG_GAIN"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__register__map.html"><param name="Name" value="register_map"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group__register__map.html#gae05952595a44131b28104cec5e9df7d7"><param name="Name" value="DAC8_REG_NOOP"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__register__map.html"><param name="Name" value="register_map"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group__register__map.html#gad440395c7daf09cc99ce588bd402fc56"><param name="Name" value="DAC8_REG_STATUS"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__register__map.html"><param name="Name" value="register_map"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group__register__map.html#ga2f2094204cc11457f62a83880bd34819"><param name="Name" value="DAC8_REG_SYNC"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__register__map.html"><param name="Name" value="register_map"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group__register__map.html#gad397d5beb2af86082f63f0e2430639a1"><param name="Name" value="DAC8_REG_TRIGGER"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structdac8__cfg__t.html#aeba85e9319a5c8c3a7bab5cb503278e4"><param name="Name" value="rst"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structdac8__cfg__t.html#aeba85e9319a5c8c3a7bab5cb503278e4"><param name="Name" value="dac8_cfg_t"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structdac8__s.html#ac460e94a3d39e1ad4e939d2c04bdc454"><param name="Name" value="rst"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structdac8__s.html#ac460e94a3d39e1ad4e939d2c04bdc454"><param name="Name" value="dac8_s"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structdac8__cfg__t.html#a7d4fefea9071f5217ef8973c771751e5"><param name="Name" value="sck"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structdac8__cfg__t.html#ac5909ef3bd73ac3d682f91bb79baa56f"><param name="Name" value="scl"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structdac8__cfg__t.html#adc3dc5e0cc6fe9e112104a64a9bd8c61"><param name="Name" value="sda"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structdac8__cfg__t.html#a1535ccf5f0464379189c50e8f5cd222c"><param name="Name" value="sel"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__communication.html"><param name="Name" value="Select communication"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structdac8__s.html#ac93868aeda435dfb685a0a0020e5c7a4"><param name="Name" value="slave_address"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structdac8__s.html#a1a3ff96f28dc09691b0a5746ff720189"><param name="Name" value="spi"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structdac8__cfg__t.html#a8b8321dd2f1b623cd940e73b118f610d"><param name="Name" value="spi_mode"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structdac8__cfg__t.html#aaf56291fd6677734c778aef6c89548e8"><param name="Name" value="spi_speed"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__status__register.html"><param name="Name" value="STATUS Register"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__status__register.html"><param name="Name" value="status_register"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group__status__register.html#gaf4e3378c93c5c269e5a3bb9d3d584d90"><param name="Name" value="DAC8_ERROR"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__status__register.html"><param name="Name" value="status_register"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group__status__register.html#ga3daca0e3f39338bb3f9614915d0bc9b6"><param name="Name" value="DAC8_STATUS_REF_ALARM_BIT_MASK"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__status__register.html"><param name="Name" value="status_register"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group__status__register.html#gabfbb919f73d1c2ad035a536ce7482e1c"><param name="Name" value="DAC8_SUCCESS"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__sync__register.html"><param name="Name" value="SYNC Register"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__sync__register.html"><param name="Name" value="sync_register"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group__sync__register.html#ga28c66d9f26bf2e49724f2854aa636bcc"><param name="Name" value="DAC8_SYNC_DISABLE"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__sync__register.html"><param name="Name" value="sync_register"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group__sync__register.html#ga865b65c240642b81cac6df93da795026"><param name="Name" value="DAC8_SYNC_ENABLE"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__trigger__register.html"><param name="Name" value="TRIGGER Register"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__trigger__register.html"><param name="Name" value="trigger_register"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group__trigger__register.html#gaa4b29df302358c3bee6175b9a9df58b8"><param name="Name" value="DAC8_TRIGGER_LDAC"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__trigger__register.html"><param name="Name" value="trigger_register"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group__trigger__register.html#gada52fa66302882b161494fcbee3b640d"><param name="Name" value="DAC8_TRIGGER_SOFT_RESET"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__type.html"><param name="Name" value="type"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group__type.html#gab5b941d9e4319295110c2c9371fe3ea7"><param name="Name" value="dac8_master_io_t)(struct dac8_s *, uint8_t, uint8_t *, uint8_t)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__type.html"><param name="Name" value="type"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group__type.html#ga2cdaa5ed31a40540e591be935e032884"><param name="Name" value="dac8_select_t"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__type.html"><param name="Name" value="type"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group__type.html#ga9a6e159e0048d3213e10754e1106660d"><param name="Name" value="dac8_t"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__type.html"><param name="Name" value="Types"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structdac8__s.html#a14976afb45678b2cab925aca532e034e"><param name="Name" value="write_f"></OBJECT>
+</UL>
+</BODY>
+</HTML>

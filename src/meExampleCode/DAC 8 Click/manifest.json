@@ -1,0 +1,22 @@
+{
+    "display_name": "DAC 8 Click",
+    "name": "mikroe.click.dac8",
+    "type": "click",
+    "version": "2.2.0",
+    "pid": "MIKROE-4229",
+    "package_changed": true,
+    "contents": {
+        "examples": [
+            {
+                "path": "DAC 8 Click/examples/example"
+            }
+        ],
+        "libraries": [
+            {
+                "alias": "Click.Dac8",
+                "subdir_name": "lib_dac8",
+                "path": "DAC 8 Click/data/lib_dac8"
+            }
+        ]
+    }
+}
