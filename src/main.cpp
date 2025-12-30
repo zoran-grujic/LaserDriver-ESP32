@@ -114,7 +114,9 @@ const float fir_coeff[FIR_CENTER + 1] = {
 };
 
 uint16_t fir_buffer[FIR_TAPS];
-volatile uint8_t fir_index = 0;
+uint16_t _fir_buffer[FIR_TAPS];
+const uint8_t fir_buffer_size = sizeof(fir_buffer);
+int fir_index = 0;
 
 hw_timer_t *adc_timer = NULL;
 bool locked = false;
@@ -149,16 +151,18 @@ void initADC() {
 // Apply symmetric FIR filter to get clean ADC reading
 uint16_t applyFIR() {
   float output = 0.0;
+  memcpy(_fir_buffer, fir_buffer, fir_buffer_size);
   uint8_t idx = fir_index;
   
-  for(int i = 0; i <= FIR_CENTER; i++) {
+  for(int i = 0; i <= FIR_CENTER; i++) 
+  {
     int idx1 = (idx - i - 1 + FIR_TAPS) % FIR_TAPS;
     int idx2 = (idx - (FIR_TAPS - i) + FIR_TAPS) % FIR_TAPS;
     
     if(i == FIR_CENTER) {
-      output += fir_buffer[idx1] * fir_coeff[i];
+      output += _fir_buffer[idx1] * fir_coeff[i];
     } else {
-      output += (fir_buffer[idx1] + fir_buffer[idx2]) * fir_coeff[i];
+      output += (_fir_buffer[idx1] + _fir_buffer[idx2]) * fir_coeff[i];
     }
   }
   
@@ -351,7 +355,7 @@ void processSerialCommand() {
 // =============================================================================
 
 #define SWEEP_POINTS 200
-#define SAMPLE_RATE 1000  // Hz (1kHz)
+#define SAMPLE_RATE 1000  // Hz (200Hz = 1 sweep/second)
 #define SAMPLE_PERIOD_US (1000000 / SAMPLE_RATE)
 
 float dacData[SWEEP_POINTS];
@@ -454,8 +458,9 @@ void loop() {
   processSerialCommand();
   
   if(lockEnabled) {
-    // PID lock mode
-    //PID myPID(&pidInput, &pidOutput, &pidSetpoint, pidP, pidI, pidD, DIRECT);
+    // PID lock mode at 1kHz
+    static uint8_t serialCounter = 0;
+    
     uint16_t adcRaw = applyFIR();
     pidInput = adcRaw;
     
@@ -464,13 +469,14 @@ void loop() {
     uint16_t dacOutput = (uint16_t)pidOutput;
     writeDAC8554_fast(0, dacOutput);
     
-    // Calculate error
-    int16_t error = (int16_t)adcRaw - (int16_t)lockPointADC;
+    // Send serial data every 10th cycle (100Hz output rate)
+    if(++serialCounter >= 10) {
+      serialCounter = 0;
+      int16_t error = (int16_t)adcRaw - (int16_t)lockPointADC;
+      Serial.printf("lock,%u,%u,%d\n", dacOutput, adcRaw, error);
+    }
     
-    // Send lock data
-    Serial.printf("lock,%u,%u,%d\n", dacOutput, adcRaw, error);
-    
-    delay(10);  // 100Hz update rate
+    delay(1);  // 1kHz update rate
   } else {
     // Sweep mode
     performSweep();
