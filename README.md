@@ -14,6 +14,14 @@ Response to each command is preceded by its echo (prefixed with `#`).
 | `lock?` | none | current lock point or "unlocked" |
 | `PID` | P I D | P I D |
 | `PID?` | none | P I D |
+| `DITHER_FREQ` | frequency in Hz | none |
+| `DITHER_FREQ?` | none | frequency in Hz |
+| `DITHER_AMP` | amplitude | none |
+| `DITHER_AMP?` | none | amplitude |
+| `DITHER_PH` | phase | none |
+| `DITHER_PH?` | none | phase |
+| `HARMONIC` | 1 or 3 | harmonic number |
+| `HARMONIC?` | none | harmonic number |
 | `help` or `?` | none | Help text |
 
 ### Command Details
@@ -37,6 +45,40 @@ Response to each command is preceded by its echo (prefixed with `#`).
 - **`PID?`** - Get current PID parameters
   - Example: `PID?`
   - Returns current P, I, D values
+
+- **`DITHER_FREQ <frequency>`** - Set dither frequency in Hz
+  - Example: `DITHER_FREQ 1500`
+  - Sets the dither modulation frequency (default: 1300Hz)
+
+- **`DITHER_FREQ?`** - Get current dither frequency
+  - Example: `DITHER_FREQ?`
+  - Returns current frequency in Hz
+
+- **`DITHER_AMP <amplitude>`** - Set dither amplitude
+  - Example: `DITHER_AMP 100`
+  - Sets the dither modulation amplitude (default: 0)
+
+- **`DITHER_AMP?`** - Get current dither amplitude
+  - Example: `DITHER_AMP?`
+  - Returns current amplitude value
+
+- **`DITHER_PH <phase>`** - Set dither phase shift (0-360 degrees)
+  - Example: `DITHER_PH 90`
+  - Sets the demodulation phase offset
+
+- **`DITHER_PH?`** - Get current dither phase shift
+  - Example: `DITHER_PH?`
+  - Returns current phase shift in degrees
+
+- **`HARMONIC <n>`** - Set lock-in demodulation harmonic (1 or 3)
+  - Example: `HARMONIC 1` or `HARMONIC 3`
+  - `1` = 1f detection (first derivative, dispersion signal)
+  - `3` = 3f detection (third derivative, absorption signal)
+  - Returns the set harmonic number
+
+- **`HARMONIC?`** - Get current demodulation harmonic
+  - Example: `HARMONIC?`
+  - Returns current harmonic (1 or 3)
 
 - **`help`** or **`?`** - Display command reference
   - Shows all available commands
